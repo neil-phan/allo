@@ -17,6 +17,7 @@ soda_*
 out
 rapidjson
 project_*
+externals/hcl_mlir
 
 # Downloaded files
 *.params
